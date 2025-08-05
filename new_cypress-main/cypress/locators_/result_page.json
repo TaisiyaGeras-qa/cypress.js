@@ -1,0 +1,5 @@
+{
+"tittle": "#messageHeader",
+"cross": "#exitMessageButton > .exitIcon",
+"down": "link"
+}
